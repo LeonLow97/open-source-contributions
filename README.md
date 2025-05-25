@@ -8,6 +8,12 @@
 		<th>Technical Skills</th>
 	</tr>
 	<tr>
+		<td>Stable container images are not tagged</td>
+		<td>https://github.com/google/osv-scanner/issues/1563</td>
+		<td>https://github.com/google/osv-scanner/pull/1882</td>
+		<td>GitHub Actions</td>
+	</tr>
+	<tr>
 		<td>Delete redundant loop variable copies</td>
 		<td><a target="_blank" href="https://github.com/ssvlabs/ssv/issues/2134">https://github.com/ssvlabs/ssv/issues/2134</a></td>
 		<td><a target="_blank" href="https://github.com/ssvlabs/ssv/pull/2198">https://github.com/ssvlabs/ssv/pull/2198</a></td>
