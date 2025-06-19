@@ -14,6 +14,12 @@
 		<td>GitHub Actions</td>
 	</tr>
 	<tr>
+		<td>Adding prefix v to stable tag image</td>
+		<td>https://github.com/google/osv-scanner/issues/1976</td>
+		<td>https://github.com/google/osv-scanner/pull/1977</td>
+		<td>GitHub Actions</td>
+	</tr>
+	<tr>
 		<td>Delete redundant loop variable copies</td>
 		<td><a target="_blank" href="https://github.com/ssvlabs/ssv/issues/2134">https://github.com/ssvlabs/ssv/issues/2134</a></td>
 		<td><a target="_blank" href="https://github.com/ssvlabs/ssv/pull/2198">https://github.com/ssvlabs/ssv/pull/2198</a></td>
