@@ -8,15 +8,15 @@
 		<th>Technical Skills</th>
 	</tr>
 	<tr>
-		<td>Stable container images are not tagged</td>
-		<td>https://github.com/google/osv-scanner/issues/1563</td>
-		<td>https://github.com/google/osv-scanner/pull/1882</td>
-		<td>GitHub Actions</td>
-	</tr>
-	<tr>
 		<td>Adding prefix v to stable tag image</td>
 		<td>https://github.com/google/osv-scanner/issues/1976</td>
 		<td>https://github.com/google/osv-scanner/pull/1977</td>
+		<td>GitHub Actions</td>
+	</tr>
+	<tr>
+		<td>Stable container images are not tagged</td>
+		<td>https://github.com/google/osv-scanner/issues/1563</td>
+		<td>https://github.com/google/osv-scanner/pull/1882</td>
 		<td>GitHub Actions</td>
 	</tr>
 	<tr>
