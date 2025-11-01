@@ -9,6 +9,12 @@
 			<th>Repo Stars</th>
 		</tr>
 		<tr>
+			<td>k8sattributes processor to only set `k8s.pod.ip` attribute when it is requested in the `extract.metadata` configuration.</td>
+			<td>https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/43862</td>
+			<td>https://github.com/open-telemetry/opentelemetry-collector-contrib/pull/43910</td>
+			<td><img src="https://img.shields.io/github/stars/open-telemetry/opentelemetry-collector-contrib?style=social" alt="stars"/></td>
+		</tr>
+		<tr>
 			<td>Added Tag parameter to Fluentbit syslog input in ClusterInput CRD so Fluent operator can route logs to specific parsers.</td>
 			<td>https://github.com/fluent/fluent-operator/issues/1732</td>
 			<td>https://github.com/fluent/fluent-operator/pull/1744</td>
