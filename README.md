@@ -9,6 +9,12 @@
 			<th>Repo Stars</th>
 		</tr>
 		<tr>
+			<td>Assisted and was credited in the investigation where where the k8sattributes processor did not set k8s.node.uid unless k8s.node.name was requested</td>
+			<td>https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/43865</td>
+			<td>https://github.com/open-telemetry/opentelemetry-collector-contrib/pull/45328</td>
+			<td><img src="https://img.shields.io/github/stars/open-telemetry/opentelemetry-collector-contrib?style=social" alt="stars"/></td>
+		</tr>
+		<tr>
 			<td>k8sattributes processor to only set `k8s.pod.ip` attribute when it is requested in the `extract.metadata` configuration.</td>
 			<td>https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/43862</td>
 			<td>https://github.com/open-telemetry/opentelemetry-collector-contrib/pull/43910</td>
