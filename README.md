@@ -15,9 +15,9 @@
 			<td><img src="https://img.shields.io/github/stars/open-telemetry/opentelemetry-collector-contrib?style=social" alt="stars"/></td>
 		</tr>
 		<tr>
-			<td>Assisted and was credited in the investigation where where the k8sattributes processor did not set k8s.node.uid unless k8s.node.name was requested</td>
+			<td>k8sattributes processor to set k8s.node.uid even though k8s.node.name is not requested.</td>
 			<td>https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/43865</td>
-			<td>https://github.com/open-telemetry/opentelemetry-collector-contrib/pull/45328</td>
+			<td>https://github.com/open-telemetry/opentelemetry-collector-contrib/pull/45643</td>
 			<td><img src="https://img.shields.io/github/stars/open-telemetry/opentelemetry-collector-contrib?style=social" alt="stars"/></td>
 		</tr>
 		<tr>
