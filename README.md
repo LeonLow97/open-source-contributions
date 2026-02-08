@@ -27,6 +27,12 @@
 			<td><img src="https://img.shields.io/github/stars/open-telemetry/opentelemetry-collector-contrib?style=social" alt="stars"/></td>
 		</tr>
 		<tr>
+			<td>Using a previously introduced reusable golang generic helper `ToPtr` that converts a golang type to a pointer in `pkg/utils` package.</td>
+			<td>https://github.com/fluent/fluent-operator/issues/1749</td>
+			<td>https://github.com/fluent/fluent-operator/pull/1750</td>
+			<td><img src="https://img.shields.io/github/stars/fluent/fluent-operator?style=social" alt="stars"/></td>
+		</tr>
+		<tr>
 			<td>Added Tag parameter to Fluentbit syslog input in ClusterInput CRD so Fluent operator can route logs to specific parsers.</td>
 			<td>https://github.com/fluent/fluent-operator/issues/1732</td>
 			<td>https://github.com/fluent/fluent-operator/pull/1744</td>
